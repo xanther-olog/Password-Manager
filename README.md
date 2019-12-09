@@ -6,4 +6,4 @@ AES Encryption credit:
 Run <u>launcher.java</u>
 <br><br><br>
 Compile all .java files "javac filename.java"<br>
-Run "java laucher"
+Run "java launcher"
